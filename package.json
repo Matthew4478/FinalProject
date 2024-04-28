@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.42.7",
+    "react-router-dom": "^6.23.0"
+  }
+}
